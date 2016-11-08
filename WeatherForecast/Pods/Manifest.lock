@@ -1,0 +1,18 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - OpenWeatherMapAPI (0.0.5):
+    - AFNetworking (~> 1.3.1)
+  - PermissionScope (1.1.1)
+
+DEPENDENCIES:
+  - OpenWeatherMapAPI (~> 0.0.5)
+  - PermissionScope
+
+SPEC CHECKSUMS:
+  AFNetworking: cf8e418e16f0c9c7e5c3150d019a3c679d015018
+  OpenWeatherMapAPI: 53613bba3dffc948f852a66a25f512f7a16643e7
+  PermissionScope: a30c16e015779ba27c97c124e7539e27b5829de2
+
+PODFILE CHECKSUM: 494b73bcca98f380bf23c17ef930078214b2ce22
+
+COCOAPODS: 1.1.0.rc.3
